@@ -1,0 +1,45 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+#botao {
+    color: rgb(0, 0, 0);
+    border: 10px;
+    border-radius: 10px;
+    
+}
+#MenuConfig{
+    height: 100px;
+    width: 100;
+    background-color: rgb(0, 4, 1);
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+    }
+
+ #teste {
+    height: 100px;
+    width: 100;
+    color: black;
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+}
+#ImgConfig{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+   
+}
+#imgHome{
+    margin-top: 100px;
+    width: 400px;
+    height: 300px;
+
+}
+#configlink{
+    color: aquamarine;
+}

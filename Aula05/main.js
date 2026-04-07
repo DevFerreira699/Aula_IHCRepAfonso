@@ -3,5 +3,5 @@ function jogoUm(){
 }
 
 function jogoDois(){
-    alert("Vá a merda")
+    alert("Botao que TAMBEM não faz nada")
 }

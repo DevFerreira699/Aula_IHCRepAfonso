@@ -52,3 +52,17 @@
     font-size: 14px;
     color: #000000;
 }
+
+
+@media (max-width: 768px) {
+    .footer-container {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .footer-links,
+    .footer-social {
+        align-items: center;
+    }
+}
